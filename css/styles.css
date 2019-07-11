@@ -1,0 +1,28 @@
+h1 {
+	color: palevioletred;
+	text-align: left;
+	font-style: italic;
+	font-size: 37px;
+}
+h2 {
+	color: green;
+	font-style: italic;
+	text-align: left;
+	font-size: 32px;
+}
+p {
+	font-family: sans-serif;
+	text-align: left;
+	font-size: 20px;
+}
+ul {
+	line-height: 40px;
+	font-size: 20px;
+}
+body {
+	background-color: blanchedalmond;
+}
+ol {
+	line-height: 40px;
+	font-size: 20px;
+}
